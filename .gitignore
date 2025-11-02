@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.manifest
+
+# Installer logs
+pip-log.txt
+pip-delete-this-file.txt
+pip.log
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.pytest_cache/
+htmlcov/
+.coverage.*
+
+# PyInstaller / cx_Freeze
+# Estas son carpetas de distribución de ejecutables
+*.spec
+_MEI*
+/dist/
+/build/
+
+# Sphinx documentation
+docs/_build/
+
+# Environments (Entornos virtuales)
+# ¡CRUCIAL IGNORAR ESTOS!
+.venv/
+venv/
+env/
+/venv/
+/env/
+
+# IDEs y Editores
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs (PyCharm, IntelliJ, etc.)
+.idea/
+
+# Jupyter Notebook / IPython
+.ipynb_checkpoints
+
+# Misceláneos / Logs
+*.log
+tmp/
